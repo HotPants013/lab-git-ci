@@ -1,0 +1,33 @@
+maxim@pc MINGW64 /c/users/maxim/projet_git/lab-git-ci (main)
+$ git log
+commit 16a6bbc8b26e074f422b9c79c1812edf07fa676b (HEAD -> main, origin/main,
+ origin/HEAD)
+Merge: 604bca1 988aae3
+Author: HotPants <maxime.pigier@edu.devinci.fr>
+Date:   Wed Feb 4 11:16:15 2026 +0100
+
+    Merge branch 'main' of https://github.com/HotPants013/lab-git-ci
+
+commit 604bca19e79be274b004ac861efc913e7d613a43
+Author: HotPants <maxime.pigier@edu.devinci.fr>
+Date:   Wed Feb 4 11:14:21 2026 +0100
+
+    update identify.md
+
+commit 988aae3715d81a6160928bb448506b70beff2131
+Author: HotPants013 <maxime.pigier@edu.devinci.fr>
+Date:   Wed Feb 4 10:53:00 2026 +0100
+
+    Update identity.md
+
+commit d1301c14d8dd53801ada4fd31aa3b605ed90bfd6
+Author: HotPants013 <maxime.pigier@edu.devinci.fr>
+Date:   Wed Feb 4 10:48:53 2026 +0100
+
+    Update identity.md
+
+commit 120030eeaf16c1c505b56c1dd5cd445490fa45d7
+Author: HotPants013 <maxime.pigier@edu.devinci.fr>
+Date:   Wed Feb 4 10:38:08 2026 +0100
+
+    Initial commit
